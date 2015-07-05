@@ -1,21 +1,21 @@
 yify-pop
 ========
-
+[![Dependency Status](https://david-dm.org/yify-pop/yify-pop.svg)](https://david-dm.org/yify-pop/yify-pop)  [![Code Climate](https://codeclimate.com/github/yify-pop/yify-pop/badges/gpa.svg)](https://codeclimate.com/github/yify-pop/yify-pop)  
 Inspired by popcorn-app, a node web server to stream torrents from yify. Built using Geddy and the peerflix library.
 
 Requirements
 ------------
-***Node 0.10.16***
+***Node >=0.10.39***
 
 Install from http://nodejs.org/ or use https://github.com/creationix/nvm
 
-***Geddy 0.12.x***
+***Geddy 13.0.7***
 
 ```
 [sudo] npm -g install geddy
 ```
 
-***Peerflix 0.2.x***
+***Peerflix 0.30.x***
 
 ```
 [sudo] npm -g install peerflix
